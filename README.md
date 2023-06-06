@@ -32,7 +32,7 @@ Por fim, foi implementada a página de avaliações. Os usuários puderam avalia
 
 Imagem da página de relatórios do administrador:
 <br>
-<img src="./docs/relatorio.gif" width="700px" height="300px" align="center" alt="Página de relatórios do administrador">
+<img src="./docs/relatorio.gif" width="576px" height="324px" align="center" alt="Página de relatórios do administrador">
 <br>
 
 ### <b>Tecnologias utilizadas</b>
