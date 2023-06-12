@@ -11,7 +11,7 @@
 
 ## 1º Semestre - 2022.1
 
-<b>Grupo: </b>Codificados
+<b>Link do repositório:</b> <a href="https://github.com/Codificados-DSM-2022/API-2022-1">Codificados</a>
 <br><br>
 <img src="./docs/codificados.jpg" width="100px" height="100px" align="center" alt="Logo do grupo Codificados" border-radius="50">
 <br><br>
@@ -68,7 +68,7 @@ Imagem da página de relatórios do administrador:
 
 ## 2º Semestre - 2022.2
 
-<b>Grupo: </b>TheSeven
+<b>Link do repositório:</b><a href="https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2">TheSeven</a>
 <br><br>
 <img src="./docs/the_seven.jpg" width="100px" height="100px" align="center" alt="Logo do grupo TheSeven" border-radius="50">
 <br><br>
@@ -121,7 +121,7 @@ Imagem da página de um relatório:
 
 ## 3º Semestre - 2023.1
 
-<b>Grupo: </b>CopiloTTeam
+<b>Link do repositório:</b><a href="https://github.com/CopiloTTeam/documentacao">CopiloTTeam</a>
 <br><br>
 <img src="./docs/copilotteam.jpg" width="100px" height="100px" align="center" alt="Logo do grupo CopiloTTeam" border-radius="50">
 <br><br>
