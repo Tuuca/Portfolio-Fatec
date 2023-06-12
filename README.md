@@ -5,7 +5,7 @@
 ## Sobre mim
 
 <p align="justify">Meu nome é Gabriel da Cunha de Macedo, tenho 18 anos, técnico em desenvolvimento de sistemas pela ETEC Profª Ilza Nascimento Pintus, e atualmente cursando 3º Semestre de Desenvolvimento de Software Multiplataforma na FATEC Profº Jessen Vidal.</p>
-<p align="justify">Já participei de atividades extracurriculares como a Olimpíada Brasileira de Informática (OBI), maratonas de programações e hackathons, já participei de competições de robótica da FIRST atuando como programador e mentor da equipe de programação, e atualmente sou estagiário na empresa de desenvolvimento de software <a href="https://https://midall.com.br/">Midall</a>.</p>
+<p align="justify">Já participei de atividades extracurriculares como a Olimpíada Brasileira de Informática (OBI), maratonas de programações e hackathons, já participei de competições de robótica da FIRST atuando como programador e mentor da equipe de programação, tenho conhecimento em programação back-end em desenvolvimento web utilizando a linguagem de programação Python e o framework web Flask, banco de dados MySQL. Atualmente sou estagiário na empresa de desenvolvimento de software <a href="https://https://midall.com.br/">Midall</a>.</p>
 
 ## Projetos
 
@@ -15,13 +15,13 @@
 <br><br>
 <img src="./docs/codificados.jpg" width="100px" height="100px" align="center" alt="Logo do grupo Codificados" border-radius="50">
 <br><br>
-<b>Cliente:</b> Cliente interno da FATEC, professor Fabrício Galende 
+<b>Cliente:</b>Cliente interno da FATEC, professor Fabrício Galende 
 <br>
-<b>Tema:</b> Sistema de Gestão de Serviços de Tecnologia da Informação
+<b>Tema:</b>Sistema de Gestão de Serviços de Tecnologia da Informação
 
 ### <b> Problema apresentado: </b>
 
-<p align="justify">O cliente interno da FATEC, professor Fabrício Galende, apresentou a necessidade de um sistema que controlasse a prestação de serviços de TI, tanto sob o ponto de vista do cliente como do executor. O sistema deveria permitir que os usuários comuns do sistema pudessem abrir solicitações de serviços de TI e os técnicos pudessem responder aos chamados.</p>
+<p align="justify">Foi apresentada a necessidade de um sistema que controlasse a prestação de serviços de TI, tanto sob o ponto de vista do cliente como do executor. O sistema deveria permitir que os usuários comuns do sistema pudessem abrir solicitações de serviços de TI e os técnicos pudessem responder aos chamados.</p>
 
 ### <b> Solução proposta: </b>
 
@@ -35,11 +35,11 @@ Imagem da página de relatórios do administrador:
 ### <b>Tecnologias utilizadas</b>
 
 <ul>
-<li><b>Figma: </b> Prototipação das telas</li>
-<li><b>Python: </b> Linguagem de programação utilizada</li>
-<li><b>Flask: </b> Framework web utilizado</li>
-<li><b>MySQL: </b> Banco de dados utilizado</li>
-<li><b>Trello: </b> Gerenciamento de tarefas</li>
+<li><b>Figma: </b>Ferramenta de prototipação das telas</li>
+<li><b>Python: </b>Linguagem de programação</li>
+<li><b>Flask: </b>Framework web em Python</li>
+<li><b>MySQL: </b>Banco de dados relacional</li>
+<li><b>Trello: </b>Ferramenta de gerenciamento de tarefas</li>
 </ul>
 
 ### <b>Contribuições pessoais</b>
@@ -49,21 +49,21 @@ Imagem da página de relatórios do administrador:
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Flask: </b> Aprendi a criar rotas, a renderizar templates</li>
-<li><b>MySQL: </b> Aprendi a modelar o banco de dados e a manipular dados</li>
-<li><b>Trello: </b> Aprendi a gerenciar tarefas</li>
-<li><b>Git: </b> Aprendi a criar repositórios, clonar repositórios, criar branches, fazer commits e pushs, readme.md</li>
-<li><b>Documentação: </b> Aprendi a criar documentação de projetos, como o README.md, modelagem do banco de dados, backlog</li>
-<li><b>Metodos ágeis: </b> Aprendi a trabalhar com metodologias ágeis</li>
+<li><b>Flask: </b>Aprendi a criar rotas, a renderizar templates</li>
+<li><b>MySQL: </b>Aprendi a modelar o banco de dados e a manipular dados</li>
+<li><b>Trello: </b>Aprendi a gerenciar tarefas</li>
+<li><b>Git: </b>Aprendi a criar repositórios, clonar repositórios, criar branches, fazer commits e pushs, readme.md</li>
+<li><b>Documentação: </b>Aprendi a criar documentação de projetos, como o README.md, modelagem do banco de dados, backlog</li>
+<li><b>Metodos ágeis: </b>Aprendi a trabalhar com metodologias ágeis</li>
 </ul>
 
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Trabalho em equipe: </b> Aprendi a trabalhar em equipe, a ouvir as ideias dos outros e a respeitar as opiniões dos outros</li>
-<li><b>Comunicação: </b> Aprendi a me comunicar melhor com os outros e ao cliente por conta das reuniões pela função de Product Owner</li>
-<li><b>Proatividade: </b> Aprendi a ser mais proativo e a buscar soluções para os problemas</li>
-<li><b>Organização: </b> Aprendi a me organizar melhor e a organizar as tarefas do grupo</li>
+<li><b>Trabalho em equipe: </b>Aprendi a trabalhar em equipe, a ouvir as ideias dos outros e a respeitar as opiniões dos outros</li>
+<li><b>Comunicação: </b>Aprendi a me comunicar melhor com os outros e ao cliente por conta das reuniões pela função de Product Owner</li>
+<li><b>Proatividade: </b>Aprendi a ser mais proativo e a buscar soluções para os problemas</li>
+<li><b>Organização: </b>Aprendi a me organizar melhor e a organizar as tarefas do grupo</li>
 </ul>
 
 ## 2º Semestre - 2022.2
@@ -72,9 +72,9 @@ Imagem da página de relatórios do administrador:
 <br><br>
 <img src="./docs/the_seven.jpg" width="100px" height="100px" align="center" alt="Logo do grupo TheSeven" border-radius="50">
 <br><br>
-<b>Cliente:</b> Empresa de desenvolvimento de software Midall
+<b>Cliente:</b>Empresa de desenvolvimento de software Midall
 <br>
-<b>Tema:</b> Desenvolvimento de um sistema de gerenciamento e identificação de associados no Diário Oficial do Estado de São Paulo
+<b>Tema:</b>Desenvolvimento de um sistema de gerenciamento e identificação de associados no Diário Oficial do Estado de São Paulo
 
 ### <b> Problema apresentado: </b>
 
@@ -91,13 +91,13 @@ Imagem da página de um relatório:
 ### <b>Tecnologias utilizadas</b>
 
 <ul>
-<li><b>Figma: </b> Prototipação das telas</li>
-<li><b>Javascript: </b> Linguagem de programação utilizada</li>
-<li><b>React: </b> Framework web utilizado</li>
-<li><b>Node.js: </b> Framework web utilizado</li>
-<li><b>Python: </b> Linguagem de programação para a realização do web scraping</li>
-<li><b>MySQL: </b> Banco de dados utilizado</li>
-<li><b>Trello: </b> Gerenciamento de tarefas</li>
+<li><b>Figma: </b>Ferramenta de prototipação das telas</li>
+<li><b>Javascript: </b>Linguagem de programação</li>
+<li><b>React: </b>Framework web</li>
+<li><b>Node.js: </b>Framework web</li>
+<li><b>Python: </b>Linguagem de programação para a realização do web scraping</li>
+<li><b>MySQL: </b>Banco de dados relacional</li>
+<li><b>Trello: </b>Gerenciamento de tarefas</li>
 </ul>
 
 ### <b>Contribuições pessoais</b>
@@ -107,16 +107,16 @@ Imagem da página de um relatório:
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Python: </b> Aprendi a realizar web scraping, a manipular arquivos pdf, a manipular strings</li>
-<li><b>MySQL: </b> Aprendi a conectar o banco de dados com o backend, criar tabelas, inserir dados, manipular dados</li>
-<li><b>Node.js: </b> Aprendi a criar rotas, logar no sistema, renderizar templates</li>
+<li><b>Python: </b>Aprendi a realizar web scraping, a manipular arquivos pdf, a manipular strings</li>
+<li><b>MySQL: </b>Aprendi a conectar o banco de dados com o backend, criar tabelas, inserir dados, manipular dados</li>
+<li><b>Node.js: </b>Aprendi a criar rotas, logar no sistema, renderizar templates</li>
 </ul>
 
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Resoluções de problemas: </b> Ao lidar com o web scraping, tive que resolver problemas como a manipulação de arquivos pdf e a manipulação de strings, encontrando soluções para esses problemas</li>
-<li><b>Adaptabilidade: </b> Tive que me adaptar a diferentes situações, como lidar com a mudança de requisitos do cliente</li>
+<li><b>Resoluções de problemas: </b>Ao lidar com o web scraping, tive que resolver problemas como a manipulação de arquivos pdf e a manipulação de strings, encontrando soluções para esses problemas</li>
+<li><b>Adaptabilidade: </b>Tive que me adaptar a diferentes situações, como lidar com a mudança de requisitos do cliente</li>
 </ul>
 
 ## 3º Semestre - 2023.1
@@ -125,9 +125,9 @@ Imagem da página de um relatório:
 <br><br>
 <img src="./docs/copilotteam.jpg" width="100px" height="100px" align="center" alt="Logo do grupo CopiloTTeam" border-radius="50">
 <br><br>
-<b>Cliente:</b> Empresa de desenvolvimento de software Pro4Tech
+<b>Cliente:</b>Empresa de desenvolvimento de software Pro4Tech
 <br>
-<b>Tema:</b> Desenvolvimento de um sistema de gestão financeira e comercial com automatização de processos, cadastro de clientes, gestão de títulos e parcelas.
+<b>Tema:</b>Desenvolvimento de um sistema de gestão financeira e comercial com automatização de processos, cadastro de clientes, gestão de títulos e parcelas.
 
 ### <b> Problema apresentado: </b>
 
@@ -144,30 +144,30 @@ Imagem da página relatórios de parcelas:
 ### <b>Tecnologias utilizadas</b>
 
 <ul>
-<li><b>Figma: </b> Prototipação das telas</li>
-<li><b>TypeScript: </b> Linguagem de programação utilizada</li>
-<li><b>React: </b> Framework web utilizado</li>
-<li><b>Java: </b> Linguagem de programação utilizada</li>
-<li><b>Spring Boot: </b> Framework web utilizado</li>
-<li><b>MySQL: </b> Banco de dados utilizado</li>
-<li><b>Trello: </b> Gerenciamento de tarefas</li>
+<li><b>Figma: </b>Ferramenta de prototipação das telas</li>
+<li><b>TypeScript: </b>Linguagem de programação utilizada no front-end</li>
+<li><b>React: </b>Framework web</li>
+<li><b>Java: </b>Linguagem de programação utilizada no back-end</li>
+<li><b>Spring Boot: </b>Framework web em Java</li>
+<li><b>MySQL: </b>Banco de dados relacional</li>
+<li><b>Trello: </b>Ferramenta para gerenciamento de tarefas</li>
 </ul>
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Novamente desempenhei o papel de Desenvolvedor, sendo responsável por desenvolver o backend do sistema, utilizando a linguagem de programação Java e o framework Spring Boot, mas também auxiliei e realizei tarefas no frontend, utilizando a linguagem de programação TypeScript e o framework React, principalmente realizar a lógica da página de parcelas, relatórios e dos gráficos.</p>
+<p align="justify">Mais uma vez, desempenhei o papel de Desenvolvedor, sendo responsável pelo desenvolvimento do backend do sistema utilizando a linguagem de programação Java e o framework Spring Boot. Além disso, auxiliei e executei tarefas no frontend, utilizando a linguagem de programação TypeScript e o framework React, principalmente na implementação da lógica da página de parcelas, relatórios e dos gráficos.</p>
 
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Java: </b> Aprendi manipular dados, conectar o banco de dados, criar classes, métodos, interfaces, etc</li>
-<li><b>Spring Boot: </b> Aprendi a criar rotas, retornar dados, conectar o banco de dados</li>
-<li><b>TypeScript: </b> Aprendi a criar rotas, telas e a manipular dados</li>
+<li><b>Java: </b>Aprendi manipular dados, conectar o banco de dados, criar classes, métodos, interfaces, etc</li>
+<li><b>Spring Boot: </b>Aprendi a criar rotas, retornar dados, conectar banco de dados</li>
+<li><b>TypeScript: </b>Aprendi a criar rotas, telas e a manipular dados</li>
 </ul>
 
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Gestão de tempo: </b> Tive que gerenciar meu tempo para conseguir realizar as tarefas do frontend e do backend</li>
-<li><b>Resiliência: </b> Tive que lidar com a pressão de entregar as tarefas no prazo e superar as dificuldades que surgiram durante as entregas das sprints</li>
+<li><b>Gestão de tempo: </b>Tive que gerenciar meu tempo para conseguir realizar as tarefas do frontend e do backend</li>
+<li><b>Resiliência: </b>Tive que lidar com a pressão de entregar as tarefas no prazo e superar as dificuldades que surgiram durante as entregas das sprints</li>
 <ul>
